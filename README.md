@@ -1,6 +1,6 @@
 # Webpage Changer 3000
 
-Finally a simple repo that allows you to see if a web page has changed. Get notfied in Slack when it does!
+Finally a simple repo that allows you to see if a web page has changed. Get notified in Slack when it does!
 
 ## Getting started
 
